@@ -1,0 +1,3 @@
+bloodgulch:Sniper
+ratrace:Sniper
+beavercreek:Sniper
