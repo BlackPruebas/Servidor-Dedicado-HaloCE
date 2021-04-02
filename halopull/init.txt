@@ -1,6 +1,5 @@
 load
 sv_name "Black09"
-sv_public 1
 sv_rcon_password halox202
 sv_maxplayers 16
 sv_password 1235
