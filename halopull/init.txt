@@ -1,0 +1,9 @@
+sv_name "alexhacker1000 (SERVER TEST)"
+sv_motd motd.txt
+sv_maxplayers 16
+sv_password 
+sv_timelimit 
+sv_tk_ban 0
+sv_mapcycle_timeout 10
+load
+sv_map bloodgulch Sniper
